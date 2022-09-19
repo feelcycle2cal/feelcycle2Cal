@@ -1,23 +1,32 @@
 
-# FeelCycle2Cal
+<p align="center">
+<img src="https://github.com/feelcycle2cal/feelcycle2Cal/blob/011fca46e169f4b5885503d9edc54c865a7a25cd/app/images/feelcycle-icon-128.jpg">
+</p>
 
+<p align="center">
+
+# FeelCycle2Calender
+</p>
   FeelCycleの予定をGoogleCalenderに入れておきたいけれど、
   公式にはリンクが提供されていないという課題がありました。
 
-### FeelCycle2Calが行っていること、画面の変化箇所
+### FeelCycle2Calが行っていること、導入による画面の変化箇所
 
 ###### 行っていること
 
   マイページの予約確定画面にある日付をからGoogleCalenderに登録できるリンクを生成しています。
   以下のように変化することになります。
 
-###### 画面の変化箇所
+###### 導入による画面の変化箇所
 
 - Before
+
 ![-](https://user-images.githubusercontent.com/113871492/190943648-4737d2cd-cb42-4758-8b7d-90cdce41f07e.jpg)
 
 - After
+
 ![-](https://user-images.githubusercontent.com/113871492/190943641-ea3dac0e-cd42-421b-a736-0249d6ae5ef6.jpg)
+
 左端の日時列に Googleカレンダーへのリンクが追加されます
 
 リンクを押すと、必要情報をGoogle Calenderに送ることができます。
