@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "feelcycle2cal",
+    "description": "FeelCycleの予約を確認しやすくする。"
+  },
+  "appDescription": {
+    "message": "feelcycle2cal",
+    "description": "マイページの予約状況にある「日時列」にGoogleCalenderへのリンクを追加します。"
+  }
+}
